@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Cezary Janicki. I am a graduate from Poznań Univeristy of Technologies, Currently self teaching myself javascript and next.js with intention of becoming a web developer. I started learing programming two years ago and took my first steps in next.js a year ago. Curently working on the Outella project. The project is a online product catalog for a clothes store.  
+My name is Cezary Janicki. I am a graduate from Poznań Univeristy of Technologies, Currently self teaching myself javascript and next.js with intention of becoming a web developer. I started learing programming two years ago and took my first steps in next.js a year ago. At the moment working on the Outella repo. The project is a online product catalog for a clothes store.  
 
 If you would like to check the progress on my webpage it's accesible at https://outella.vercel.app/
 <!--
