@@ -1,7 +1,18 @@
 ## Hi there, I'm Cezary 👋
 
-I am a graduate from Poznań Univeristy of Technologies, Currently self teaching myself javascript and next.js with intention of becoming a web developer. I started learing programming two years ago and took my first steps in next.js a year ago. At the moment working on the Outella repo. The project is a online product catalog for a clothes store.  
+I am a graduate from Poznań Univeristy of Technologies, Currently self teaching myself javascript and next.js with intention of becoming a web developer. I started learing programming two years ago and took my first steps in next.js a year ago. If you got any questions feel free to email me at: cezary.d.janicki@gmail.com
 
+_________
+
+### 📖 Currently learning
+
+Currently I'm learning React framework. I also try to learn tools that the react framework provides to improve and build on what I had already learned, such as queries or router.
+
+_________
+
+### 🔭 Currently working on
+
+At the moment working on the Outella repo. The project is a online product catalog for a clothes store.  
 If you would like to check the progress on my webpage it's accesible at https://outella.vercel.app/
 
 <div>
