@@ -14,6 +14,7 @@ _________
 
 At the moment working on the Outella repo. The project is a online product catalog for a clothes store.  
 If you would like to check the progress on my webpage it's accesible at https://outella.vercel.app/
+_________
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
