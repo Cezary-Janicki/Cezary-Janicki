@@ -12,7 +12,7 @@ _________
 
 ### 🔭 Currently working on
 
-At the moment working on the Outella repo. The project is a online product catalog for a clothes store.  
+At the moment working on the Outella website. The project is a online product catalog for a clothes store.  
 If you would like to check the progress on my webpage it's accesible at https://outella.vercel.app/
 _________
 
