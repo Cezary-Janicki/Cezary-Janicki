@@ -1,12 +1,12 @@
 ## Hi there, I'm Cezary 👋
 
-I am a graduate from Poznań Univeristy of Technologies, Currently self teaching myself javascript and next.js with intention of becoming a web developer. I started learing programming two years ago and took my first steps in next.js a year ago. If you got any questions feel free to email me at: cezary.d.janicki@gmail.com
+I am a graduate from Poznań Univeristy of Technologies, Currently learing myself javascript and next.js with intention of becoming a web developer. I started learning programming two years ago and took my first steps in next.js a year ago. If you got any questions feel free to email me at: cezary.d.janicki@gmail.com
 
 _________
 
 ### 📖 Currently learning
 
-Currently I'm learning React framework. I also try to learn tools that the react framework provides to improve and build on what I had already learned, such as queries or router.
+Currently I'm learning React framework. I also try to learn it's tools and to build on what I had already learned.
 
 _________
 
