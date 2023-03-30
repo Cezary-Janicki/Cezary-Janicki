@@ -12,7 +12,7 @@ _________
 
 ### 🔭 Currently working on
 
-At the moment I am working on a damage calculator for Warhammer 40k. And doing some volunteer work for code for Poznań.
+At the moment I am working on a damage calculator for Warhammer 40k, and doing some volunteer work for code for Poznań.
 _________
 
 <div>
