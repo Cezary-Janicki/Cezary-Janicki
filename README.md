@@ -12,8 +12,7 @@ _________
 
 ### 🔭 Currently working on
 
-At the moment working on the Outella website. The project is a online product catalog for a clothes store.  
-If you would like to check the progress on my webpage it's accesible at https://outella.vercel.app/
+At the moment I am working on a damage calculator for Warhammer 40k. And doing some volunteer work for code for Poznań.
 _________
 
 <div>
